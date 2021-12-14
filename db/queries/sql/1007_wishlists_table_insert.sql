@@ -1,0 +1,5 @@
+INSERT INTO analytic_shop.wishlist_items (id, user_id, product_id, created) VALUES ('cf67d0f3-1b40-4efa-9a6c-05a1f58e15bb', 'dc3401fc-20af-4c8e-a8d7-ef44a4e4834e', 'ba46915b-1ac3-4582-99ad-7bb750988ee1', '2021-12-10 12:13:26.265431');
+INSERT INTO analytic_shop.wishlist_items (id, user_id, product_id, created) VALUES ('888e56bd-1811-4484-942b-f6957f964eb0', 'dc3401fc-20af-4c8e-a8d7-ef44a4e4834e', '96dfc613-188e-467c-8491-e9c722c840b5', '2021-12-10 12:13:26.265431');
+INSERT INTO analytic_shop.wishlist_items (id, user_id, product_id, created) VALUES ('d5702ae7-4c66-43e6-907b-c092664de070', 'dc3401fc-20af-4c8e-a8d7-ef44a4e4834e', 'fc8861d9-938e-4e44-8e0d-a8974585df3a', '2021-12-10 12:13:26.265431');
+INSERT INTO analytic_shop.wishlist_items (id, user_id, product_id, created) VALUES ('8391dfb4-3e9a-4237-a5a4-5c2e22ec94cb', '3b7c274b-86c7-470d-9adf-e79909cbdb42', '96dfc613-188e-467c-8491-e9c722c840b5', '2021-12-10 12:13:26.265431');
+INSERT INTO analytic_shop.wishlist_items (id, user_id, product_id, created) VALUES ('f447d30b-48fc-436c-b50e-92cba30e397a', 'adf5e958-36a6-4c2c-a653-ccea8bbe6ce9', 'ba46915b-1ac3-4582-99ad-7bb750988ee1', '2021-12-10 12:13:26.265431');
