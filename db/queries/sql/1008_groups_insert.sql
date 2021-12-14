@@ -1,5 +1,0 @@
-INSERT INTO analytic_shop.groups (id, name, permission_type, created) VALUES ('5ab21e4a-006f-45c5-b637-6bef7f596c1b', 'admin', 777, '2021-12-10 12:36:24.958451');
-INSERT INTO analytic_shop.groups (id, name, permission_type, created) VALUES ('2e60e5a4-81ad-47e9-b89f-e72ece18e1ec', 'developer', 500, '2021-12-10 12:36:24.958451');
-INSERT INTO analytic_shop.groups (id, name, permission_type, created) VALUES ('2d29850f-8e58-4467-917f-54b8043673a5', 'manager', 400, '2021-12-10 12:36:24.958451');
-INSERT INTO analytic_shop.groups (id, name, permission_type, created) VALUES ('8b60bb8c-b581-4dd0-98ab-45fba1c03c31', 'moderator', 200, '2021-12-10 12:36:24.958451');
-INSERT INTO analytic_shop.groups (id, name, permission_type, created) VALUES ('21067df7-7348-43ac-8767-646b4e93ca7c', 'author', 100, '2021-12-10 12:36:24.958451');
